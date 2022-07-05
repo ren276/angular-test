@@ -19,7 +19,7 @@
     "@angular/platform-browser": "14.0.4",
     "@angular/platform-browser-dynamic": "14.0.4",
     "@angular/router": "14.0.4",
-    "@types/leaflet": "^1.7.9",
+    "@types/leaflet": "1.7.11",
     "bootstrap": "^4.6.0",
     "jquery": "^3.6.0",
     "rxjs": "~6.6.0",
